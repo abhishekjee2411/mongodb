@@ -1,0 +1,31 @@
+({"name":"AJ","name":"SP","name":"DF","name":"KL","name":"RTED","name":"FG","name":"FT"})
+
+db.mongo1.insert({"name":"DF"})
+db.mongo1.insert({"name":"KL"})
+db.mongo1.insert({"name":"RTED"})
+db.mongo1.insert({"name":"FG"})
+db.mongo1.insert({"name":"FT"})
+
+db.mongo1.insert({"name":"AJ"
+
+
+
+
+({name:"AJ",age:"33",blood:"A+",city:"Pune",dob:"24-11-1984"})
+
+({name:"AJ",age:"33",blood:"A+",city:"Pune",dob:"24-11-1984"})
+
+db.mongo1.insert(
+	{
+	name:"AJ",
+	age:"33",
+	blood:[
+	{
+		group:"A",
+		sign:"+"
+	}
+	],
+	city:"Pune",
+	dob:"24-11-1984"
+	}
+)

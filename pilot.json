@@ -1,5 +1,5 @@
 {
-	_id: ObjectId(...)
+	_id: ObjectId(7df78ad8902c)
 	title: 'MongoDB Overview',
 	description: 'MongoDB is no sql database',
 	by: 'tutorials point',
